@@ -1,0 +1,19 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+
+#ext_menu-0 .navbar-toggler {
+  color: #000;
+}
+#content5-6 .mbr-section-title {
+  color: #ffffff;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-size: 80px;
+}
+#content5-6 P {
+  color: #ffffff;
+  font-size: 36px;
+  text-align: center;
+}
+#pricing-table1-7 SMALL {
+  color: #ffffff;
+}
