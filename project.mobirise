@@ -14,7 +14,8 @@
     "versionFirst": "4.9.5",
     "siteFonts": [],
     "uniqCompNum": 10,
-    "versionPublish": "4.9.5"
+    "versionPublish": "4.9.5",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -219,7 +220,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\">Contact Us</a>",
-          "text1": "<strong>Address</strong><br>Brisbane, QUEENSLAND, AUSTRALIA<br><br>\n<strong>Contacts</strong><br>Phone: +64 406 360 100<br><br>",
+          "text1": "<strong>Address</strong><br>Brisbane, QUEENSLAND, AUSTRALIA<br><br>\n<strong>Contacts</strong><br>Phone: +64 406 868 636<br><br>",
           "text2": "<ul></ul>",
           "form": {
             "title": "MESSAGE",
